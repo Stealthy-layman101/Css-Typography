@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* typography is the way the text is arranged and presented */
+/*Pad the contents of the body to the middle of page*/
+
+body{
+    padding: 10%;
+    font-size: 2em;
+    color: blue; 
+}
+
+p{
+    text-indent: 2em;
+    text-align: center;
+    /* text-decoration: underline; */
+   /*  text-decoration: overline; */
+    /* text-decoration: line-through; */
+    text-transform: uppercase;
+    line-height: 3rem;
+    letter-spacing: 0.2rem;
+    word-spacing: 1rem;
+    font-weight: 600;
+    font-style: oblique;
+    /* font-style: inherit; */
+    font-family: 'Roboto', sans-serif;
+    /* margin-left: -20rem; */
+}

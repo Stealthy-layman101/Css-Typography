@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* typography is the way the text is arranged and presented */
+/*Pad the contents of the body to the middle of page*/
+
+/* You can use fonts.google.com to link or import fonts from the web*/
+
+body{
+    padding: 10%;
+    font-size: 2rem; 
+    color: rebeccapurple;
+}
+
+/*setting the input and button font-size as they do not inherit*/
+/* input, button{
+    font: inherit;
+} */
+
+/*seeting text settings*/
+p{
+    /*indent the text*/
+    text-indent: 2em;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 1.5; /* gives spacing between the lines*/
+    /*letter-spacing: 0.1em;*/ /*gives space between the texts*/
+    word-spacing: 0.2em; /*gives spacing between the words*/
+    font-weight: 600; /*adds weight to the font*/
+    font-style: oblique; /* set style of font*/
+    font-family: 'Roboto', sans-serif; /* setting the font family*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
